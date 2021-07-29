@@ -43,7 +43,7 @@ Java学习笔记
 - #### JVM
 
   - JVM内存模型
-  - 类加载机制
+  - [类加载机制](/JavaNote/Java高阶/JVM/JVM.md)
   - 类字节码
   - 垃圾收集器与内存分配策略
   - 性能监控与故障处理
@@ -64,6 +64,10 @@ Java学习笔记
   - MVCC多版本并发控制
 
 ## 🌊 JavaWeb
+
+- #### JSP
+
+- #### servlet
 
 ## 🖇 Framework
 
