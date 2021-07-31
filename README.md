@@ -42,26 +42,34 @@ Java学习笔记
 
 - #### JVM
 
-  - JVM内存模型
+  - [JVM内存模型](/JavaNote/Java高阶/JVM/JVM内存模型.md)
   - [类加载机制](/JavaNote/Java高阶/JVM/JVM.md)
-  - 类字节码
+  - [类字节码](/JavaNote/Java高阶/JVM/JVM内存模型.md)
   - 垃圾收集器与内存分配策略
   - 性能监控与故障处理
   - 调优案例
+  - 附件：JVM指令手册
 
 ## 🛢 MySQL
 
-- #### SQL执行原理
+- #### [SQL执行原理](/JavaNote/MySQL/5.SQL执行原理.md)
 
-- #### MySQL存储结构
+- #### [MySQL存储结构](/JavaNote/MySQL/1.MySQL存储结构.md)
 
-- #### 索引底层原理
+- #### [索引底层原理](/JavaNote/MySQL/2.索引底层原理.md)
+
+- #### [索引优化](/JavaNote/MySQL/3.索引优化.md)
 
 - #### MySQL的锁与事务隔离级别
 
-  - MySQL锁
+  - [MySQL锁](/JavaNote/MySQL/6.MySQL的锁.md)
   - 事务隔离级别
   - MVCC多版本并发控制
+  
+- #### 工具及面试题
+
+  - [Explain详解及使用](/JavaNote/MySQL/4.Explain详解及使用.md)
+  - [常见面试问题](/JavaNote/MySQL/常见面试问题.md)
 
 ## 🌊 JavaWeb
 
