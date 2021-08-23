@@ -63,8 +63,8 @@ Java学习笔记
 - #### MySQL的锁与事务隔离级别
 
   - [MySQL锁](/JavaNote/MySQL/6.MySQL的锁.md)
-  - 事务隔离级别
-  - MVCC多版本并发控制
+  - [事务隔离级别](/JavaNote/MySQL/7.Mysql事务隔离级别与锁机制.md)
+  - [MVCC多版本并发控制](/JavaNote/MySQL/8.MVCC与BufferPool缓存机制.md)
   
 - #### 工具及面试题
 
