@@ -2,7 +2,15 @@
 
 Java学习笔记
 
-## 💻 计算机基础
+## 总结：图解系列
+
+1. JVM
+2. MySQL
+3. 容器
+4. 图解并发编程
+5. 图解设计模式
+
+## 💻1. 计算机基础
 
 - #### 操作系统
 
@@ -12,9 +20,9 @@ Java学习笔记
 
 - #### 数据结构
 
-## 🛠 算法
+## 🛠2. 算法
 
-## ☕ Java基础
+## ☕3. Java基础
 
 - 三大特性：封装、继承、多态
 - 接口
@@ -29,7 +37,7 @@ Java学习笔记
 - 注解
 - 泛型
 
-## ☕ Java高阶
+## ☕4. Java高阶
 -   #### 容器
 
 -   #### 多线程
@@ -50,7 +58,7 @@ Java学习笔记
   - 调优案例
   - 附件：JVM指令手册
 
-## 🛢 MySQL
+## 🛢5. MySQL
 
 - #### [SQL执行原理](/JavaNote/MySQL/5.SQL执行原理.md)
 
@@ -71,13 +79,13 @@ Java学习笔记
   - [Explain详解及使用](/JavaNote/MySQL/4.Explain详解及使用.md)
   - [常见面试问题](/JavaNote/MySQL/常见面试问题.md)
 
-## 🌊 JavaWeb
+## 🌊6. JavaWeb
 
 - #### JSP
 
 - #### servlet
 
-## 🖇 Framework
+## 🖇7. Framework
 
 - #### Mybatis
 
@@ -85,7 +93,7 @@ Java学习笔记
 
 - #### SpringMVC
 
-## 🧱 微服务
+## 🧱8. 微服务
 
 - #### SprnigBoot
 
@@ -95,7 +103,7 @@ Java学习笔记
 
 - #### Dubbo
 
-## 🔩 中间件
+## 🔩9. 中间件
 
 - #### Redis
 
@@ -106,3 +114,26 @@ Java学习笔记
 - #### MyCat
 
 - #### MQ设计
+
+
+
+---
+
+---
+
+
+
+## 图解系列
+
+#### 1. JVM
+
+#### 1.1 JVM虚拟机底层原理
+
+<img src="C:\Users\MSY\Desktop\JVM底层原理 .png" alt="JVM底层原理 "  />
+
+#### 1.2 GC垃圾收集器底层原理
+
+
+
+
+

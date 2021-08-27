@@ -3,11 +3,11 @@
 #### java命令执行过程：
 
 - c++：java指令，java.exe调用底层的jvm.dll文件创建java虚拟机（c++实现）
-- c++：创建一个引导类加载器示例
+- c++：创建一个引导类加载器实例
 - c++：调用java代码，创建JVM启动器实例sum.misc.lancher
 - sum.misc.lancher.getLaunCher()
 - launcher.getClassLoader()
-- **classLoader.loadClass("com.tuling.jvm.类名")**
+- **classLoader.loadClass("com.mycompany.jvm.类名")**
 - 类.main()
 
 #### loadClass的类加载过程：
@@ -28,7 +28,7 @@
 > ClassLoader类主要有两个核心方法：
 >
 > 1. loadClass（String, boolean）：选择加载器（实现了双亲委派机制）
-> 2. findClass()：默认空实现
+> 2. findClass()：默认空实现，throw new ClassNotFoundException(name)
 
 ##### 类加载机制
 
