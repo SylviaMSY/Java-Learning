@@ -129,7 +129,9 @@ Java学习笔记
 
 #### 1.1 JVM虚拟机底层原理
 
-<img src="C:\Users\MSY\Desktop\JVM底层原理 .png" alt="JVM底层原理 "  />
+<img src="https://img-blog.csdnimg.cn/20210827124649954.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAU3lsdmlhLmltc3k=,size_20,color_FFFFFF,t_70,g_se,x_16"  />
+
+
 
 #### 1.2 GC垃圾收集器底层原理
 
