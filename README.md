@@ -4,7 +4,7 @@ Java学习笔记
 
 ## 总结：图解系列
 
-1. JVM
+1. [JVM](#1-jvm)
 2. MySQL
 3. 容器
 4. 图解并发编程
@@ -127,7 +127,7 @@ Java学习笔记
 
 #### 1. JVM
 
-#### 1.1 JVM虚拟机底层原理
+#### JVM虚拟机底层原理
 
 ![image](https://github.com/SylviaMSY/Java-Learning/blob/main/JavaNote/%E5%9B%BE%E8%A7%A3%E7%B3%BB%E5%88%97/JVM%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%20.png)
 
