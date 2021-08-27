@@ -119,7 +119,7 @@ Java学习笔记
 
 ---
 
----
+
 
 
 
@@ -129,7 +129,7 @@ Java学习笔记
 
 #### 1.1 JVM虚拟机底层原理
 
-<img src="https://img-blog.csdnimg.cn/20210827124649954.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAU3lsdmlhLmltc3k=,size_20,color_FFFFFF,t_70,g_se,x_16"  />
+![image](https://github.com/SylviaMSY/Java-Learning/blob/main/JavaNote/%E5%9B%BE%E8%A7%A3%E7%B3%BB%E5%88%97/JVM%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%20.png)
 
 
 
