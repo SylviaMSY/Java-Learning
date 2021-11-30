@@ -1,0 +1,11 @@
+
+
+
+
+
+
+抽象BeanDefinition，一般作为父beanDefinition
+
+两个父子beanDefinition合并，会生成第三个beanDefinition，也即rootBeanDefinition
+
+合并后的map是mergeBeanDefinition，大部分调用的是这个map
